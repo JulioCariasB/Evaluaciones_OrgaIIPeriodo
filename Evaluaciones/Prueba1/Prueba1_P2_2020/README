@@ -1,0 +1,18 @@
+Prueba 1
+========
+Crear una animación utilizando la letra O. 
+Dicha letra deberá moverser a través de la
+pantalla en diagonal. Comenzando en la posición
+(0, 0) y terminando en la posición (29, 29).
+No es válido utilizar la función puts para
+implementar la animación.
+
+Notas
+=====
+1. Para hacer una pausa pueden utilizar la
+   siguiente función do_delay (la cual está en el archivo main.c)
+
+2. Para el apuntador a la memoria del VGA utilicen
+   la siguiente declaración:
+
+   volatile unsigned short *p = (unsigned short *)0xb800;
