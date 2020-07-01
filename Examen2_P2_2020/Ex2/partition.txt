@@ -1,0 +1,19 @@
+Convertir la función "partition" de C a ensamblador x86, la cual se
+encuentra en el archivo partition.c.
+
+La salida de dicha programa es la siguiente:
+
+dword [0x7fffefc4] = 1
+dword [0x7fffefc8] = 12
+dword [0x7fffefcc] = 29
+dword [0x7fffefd0] = 33
+dword [0x7fffefd4] = 55
+dword [0x7fffefd8] = 65
+dword [0x7fffefdc] = 73
+dword [0x7fffefe0] = 91
+dword [0x7fffefe4] = 75
+dword [0x7fffefe8] = 56
+dword [0x7fffefec] = 87
+dword [0x7fffeff0] = 100
+dword [0x7fffeff4] = 65
+
